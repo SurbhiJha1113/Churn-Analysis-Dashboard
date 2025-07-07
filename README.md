@@ -4,9 +4,9 @@
 
 🔧Tech Stack:
 The dashboard was built using the following tools:
-Power BI Desktop - Main data visualization platform used for report creation.
-SQL: Data extraction, cleaning, and transformation.
-Jupyter Notebook (Python): Built and evaluated a Random Forest classifier to predict customer churn.
+->Power BI Desktop - Main data visualization platform used for report creation.
+->SQL: Data extraction, cleaning, and transformation.
+->Jupyter Notebook (Python): Built and evaluated a Random Forest classifier to predict customer churn.
 
  📈 Key Features:
     Predicts customers at high risk of churn.
